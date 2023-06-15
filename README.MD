@@ -1,7 +1,7 @@
 > Fullstack Dairy Products Application using Reactjs
 > [follow Us] (https://codewithshankar.web.app)
 
-![This is the Project Thumnail](./download.jpg)
+![This is the Project Thumnail](./dairy-products.png)
 
 # To check the node version
 
